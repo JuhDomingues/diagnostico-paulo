@@ -105,30 +105,30 @@ const questions = [
 
         const archetypes = {
             "MAIORIA_A": {
-                icon: "🔎",
+                icon: "🔘",
                 title: "O Invisível Valioso",
                 className: "invisivel-valioso",
                 description: "Você tem valor. Mas ele está escondido.<br><br>A sua comunicação não reflete quem você é. As pessoas não entendem seu trabalho, sua bio confunde, seu feed não mostra sua potência. E isso dói — porque você sabe que merece mais do que está recebendo.",
-                tip: "💡 Dica Estratégica:",
-                tipContent: "Comece pelo essencial: atualize sua bio com clareza do que você faz, para quem e com qual diferencial. Grave um vídeo simples contando por que você escolheu sua profissão. Isso já inicia sua virada.",
-                cta: "🎯 Quer transformar essa virada em estratégia real?<br>Agende sua sessão individual e vamos juntos estruturar seu posicionamento de autoridade no Instagram."
+                tip: "💡 COMECE PELO ESSENCIAL EM 3 PASSOS:",
+                tipContent: "<strong>1. Atualize sua bio com clareza:</strong> diga o que você faz, para quem e qual transformação entrega.<br><br><strong>2. Ajuste sua foto de perfil,</strong> destacando seu rosto — a bio é a primeira vitrine quando alguém vê seu nome em comentários, curtidas e publicações.<br><br><strong>3. Grave um vídeo simples,</strong> contando a transformação que você gera com seu serviço/produto. Não mostre o \"como\", mostre o \"porquê\".<br><br>🎯 Seu desafio agora é deixar de ser um rosto perdido no feed e se tornar uma presença reconhecível.<br>No guia, eu vou te mostrar como transformar visibilidade em autoridade real — de forma estratégica e com resultado.",
+                cta: ""
             },
             "MAIORIA_B": {
                 icon: "🟡",
                 title: "O Potencial em Evolução",
                 className: "potencial-evolucao",
                 description: "Você está no caminho certo… mas ainda está sendo visto como \"mais um\".<br><br>Sua comunicação tem valor, mas falta consistência. Falta coragem. Falta estrutura. Você já impacta pessoas, mas ainda não gera o respeito e o desejo que merecia.",
-                tip: "💡 Dica Estratégica:",
-                tipContent: "Organize um plano de conteúdo onde 1x por semana você grave um vídeo mostrando sua opinião, seu método ou um case. Posicionamento exige frequência, clareza e coragem.",
-                cta: "🎯 Quer acelerar esse processo e virar referência no seu nicho?<br>Na sessão individual vamos montar um plano profissional de posicionamento — que transforma seguidores em clientes certos."
+                tip: "💡 POTENCIALIZE SUA MARCA PESSOAL EM 3 PASSOS:",
+                tipContent: "<strong>1. Faça uma consultoria de imagem e visagismo</strong> para alinhar sua aparência à mensagem que você transmite.<br><br><strong>2. Realize um ensaio fotográfico estratégico,</strong> com roupas, expressões e cenários que comuniquem autoridade e propósito.<br><br><strong>3. Implemente seu branding pessoal no Instagram:</strong> cores, tipografia e estilo visual devem reforçar quem você é e o valor que entrega.<br><br>🎯 Seu desafio agora é tornar sua imagem uma extensão da sua autoridade.<br>No guia, eu te ajudo a criar um Instagram que vende sua credibilidade em segundos — antes mesmo de você falar.",
+                cta: ""
             },
             "MAIORIA_C": {
                 icon: "🟢",
                 title: "A Autoridade em Ascensão",
                 className: "autoridade-ascensao",
                 description: "Você já tem uma presença que inspira. O mercado te percebe. Mas agora é hora de escalar.<br><br>Você pode — e deve — subir o nível. Autoridade se constrói todos os dias. E quem quer vender mais com menos esforço, precisa ser percebido como uma escolha natural.",
-                tip: "💡 Dica Estratégica:",
-                tipContent: "Invista em sua imagem digital como uma marca de valor. Profissionalize seus vídeos, melhore os destaques, posicione sua oferta com clareza. Seu próximo salto está na sofisticação do que já funciona.",
+                tip: "💡 COMECE A POTENCIALIZAR A ATRAÇÃO DE CLIENTES QUALIFICADOS EM 3 PASSOS:",
+                tipContent: "<strong>1. Ajuste sua comunicação para atingir os 3 níveis de consciência do seu público</strong> — os que ainda não sabem que precisam de você, os que te comparam e os que estão prontos para comprar.<br><br><strong>2. Eleve o padrão dos seus vídeos, stories e legendas,</strong> mantendo a excelência visual e verbal que já representa sua marca.<br><br><strong>3. Participe de podcasts, entrevistas e eventos presenciais.</strong> Cada palco, cada colab e cada convite público é um amplificador do seu posicionamento.<br><br>🎯 Seu desafio agora é consolidar sua presença como referência e ampliar o impacto do que você já construiu.<br>No guia, eu te mostro como transformar influência em reconhecimento permanente — e posicionar sua marca como a escolha natural do seu mercado.",
                 cta: ""
             }
         };
